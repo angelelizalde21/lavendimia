@@ -1,0 +1,15 @@
+c:\users\angelelizalde\documents\visual studio 2015\Projects\examenpractico\examenpractico\bin\Debug\examenpractico.exe.config
+c:\users\angelelizalde\documents\visual studio 2015\Projects\examenpractico\examenpractico\bin\Debug\examenpractico.exe
+c:\users\angelelizalde\documents\visual studio 2015\Projects\examenpractico\examenpractico\bin\Debug\examenpractico.pdb
+c:\users\angelelizalde\documents\visual studio 2015\Projects\examenpractico\examenpractico\bin\Debug\examenpractico.xml
+c:\users\angelelizalde\documents\visual studio 2015\Projects\examenpractico\examenpractico\obj\Debug\examenpractico.vbprojResolveAssemblyReference.cache
+c:\users\angelelizalde\documents\visual studio 2015\Projects\examenpractico\examenpractico\obj\Debug\examenpractico.Form1.resources
+c:\users\angelelizalde\documents\visual studio 2015\Projects\examenpractico\examenpractico\obj\Debug\examenpractico.Resources.resources
+c:\users\angelelizalde\documents\visual studio 2015\Projects\examenpractico\examenpractico\obj\Debug\examenpractico.vbproj.GenerateResource.Cache
+c:\users\angelelizalde\documents\visual studio 2015\Projects\examenpractico\examenpractico\obj\Debug\examenpractico.exe
+c:\users\angelelizalde\documents\visual studio 2015\Projects\examenpractico\examenpractico\obj\Debug\examenpractico.xml
+c:\users\angelelizalde\documents\visual studio 2015\Projects\examenpractico\examenpractico\obj\Debug\examenpractico.pdb
+C:\Users\angelelizalde\documents\visual studio 2015\Projects\examenpractico\examenpractico\obj\Debug\examenpractico.clientes.resources
+C:\Users\angelelizalde\Documents\Visual Studio 2015\Projects\examenpractico\examenpractico\obj\Debug\examenpractico.articulos.resources
+C:\Users\angelelizalde\Documents\Visual Studio 2015\Projects\examenpractico\examenpractico\obj\Debug\examenpractico.configuracion.resources
+C:\Users\angelelizalde\documents\visual studio 2015\Projects\examenpractico\examenpractico\obj\Debug\examenpractico.ventas.resources
